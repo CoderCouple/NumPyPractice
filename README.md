@@ -1,0 +1,22 @@
+# NumPy Practice
+
+Practice notebooks for learning NumPy, Pandas, and data visualization with matplotlib.
+
+## Notebooks
+
+### NumPy
+
+| # | Topic | Colab |
+|---|-------|-------|
+| 01 | Why is NumPy faster than Python list | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/01_why_is_numpy_faster_than_python_list.ipynb) |
+| 02 | NumPy batch operations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/02_numpy_batch_operations.ipynb) |
+| 03 | NumPy type conversion | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/03_numpy_type_conversion.ipynb) |
+| 04 | Creating arrays | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/04_creating_arrays.ipynb) |
+| 05 | NumPy array arithmetic like scalar | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/05_numpy_array_arithmatic_like_scalar.ipynb) |
+
+### Pandas
+
+| # | Topic | Colab |
+|---|-------|-------|
+| 00 | Pandas Series basic | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/pandas/00_pandas_series_basic.ipynb) |
+| 01 | Pandas DataFrame basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/pandas/01_pandas_dataframe_basics.ipynb) |
