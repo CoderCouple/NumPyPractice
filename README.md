@@ -17,7 +17,7 @@ Practice notebooks for learning NumPy, Pandas, and data visualization with matpl
 ### Pandas
 
 | # | Topic | Colab |
-|---|-------|-------|
+|---|-------|-------|acp
 | 00 | Pandas Series basic | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/pandas/00_pandas_series_basic.ipynb) |
 | 01 | Pandas DataFrame basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/pandas/01_pandas_dataframe_basics.ipynb) |
 | 02 | Index object | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/pandas/02_index_object.ipynb) |
@@ -27,3 +27,5 @@ Practice notebooks for learning NumPy, Pandas, and data visualization with matpl
 | # | Topic | Colab |
 |---|-------|-------|
 | 00 | Matplotlib basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/visualizations/matplotlib/00_matplotlib_basics.ipynb) |
+| 01 | Chart text and color | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/visualizations/matplotlib/01_chart_text_and_color.py.ipynb) |
+| 02 | Subplots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/visualizations/matplotlib/02_subplots.ipynb) |
