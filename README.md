@@ -17,7 +17,7 @@ Practice notebooks for learning NumPy, Pandas, and data visualization with matpl
 ### Pandas
 
 | # | Topic | Colab |
-|---|-------|-------|acp
+|---|-------|-------|
 | 00 | Pandas Series basic | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/pandas/00_pandas_series_basic.ipynb) |
 | 01 | Pandas DataFrame basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/pandas/01_pandas_dataframe_basics.ipynb) |
 | 02 | Index object | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/pandas/02_index_object.ipynb) |
