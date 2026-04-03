@@ -28,6 +28,7 @@ Practice notebooks for learning NumPy, Pandas, and data visualization with matpl
 | 23 | Chaining operations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/23_chaining%20_operations.ipynb) |
 | 24 | Aggregate operations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/24_aggregate_operations.ipynb) |
 | 25 | 2D aggregate operations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/25_2d_aggregate_operations.ipynb) |
+| 26 | Reshape operations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoderCouple/NumPyPractice/blob/main/src/numpy/26_reshape_operations.ipynb) |
 
 ### Pandas
 
